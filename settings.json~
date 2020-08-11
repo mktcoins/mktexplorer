@@ -98,7 +98,7 @@
     "default": "ccex"
   },
 
-   richlist/top100 settings
+   //richlist/top100 settings
   "richlist": {
   "distribution": true,
   "received": true,
